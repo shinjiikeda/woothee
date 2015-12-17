@@ -1,18 +1,20 @@
 # Mobile Safari + Android
 - target: 'Mozilla/5.0 (Linux; U; Android 2.3.5; ja-jp; ISW11F Build/FGK500) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1'
-  name: Safari
-  version: '4.0'
+  name: Android
+  version: '2.3.5'
   os: Android
   os_version: '2.3.5'
   category: smartphone
+  model: ISW11F
 
 # Safari + Android
 - target: 'Mozilla/5.0 (Linux; U; Android 3.1; ja-jp; L-06C Build/HMJ37) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13'
-  name: Safari
-  version: '4.0'
+  name: Android
+  version: '3.1'
   os: Android
   os_version: '3.1'
   category: smartphone
+  mode: L-06C
 
 # Chrome Mobile
 - target: 'Mozilla/5.0 (Linux; U; Android-4.0.3; en-us; Galaxy Nexus Build/IML74K) AppleWebKit/535.7 (KHTML, like Gecko) CrMo/16.0.912.75 Mobile Safari/535.7'
